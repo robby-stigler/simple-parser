@@ -1,0 +1,16 @@
+Initial Tree:
+    Valid:
+        Maggie saw Lisa and sleeps
+        Homer chased Bart and Maggie crawls
+        Marge handed Homer Maggie, and Lisa saw Bart
+
+    Invalid:
+        Homer slept Bart
+        Homer chased Bart and
+
+    Invalid but should be Valid
+        Homer chased Bart and Maggie
+        Marge handed Homer Maggie, Lisa saw Bart, and Homer chased Bart
+
+Revised Tree:
+    Ambiguous Sentences:
